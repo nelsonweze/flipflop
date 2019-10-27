@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074551138055",
+    "firebase_url": "https://flipflop-61b96.firebaseio.com",
+    "project_id": "flipflop-61b96",
+    "storage_bucket": "flipflop-61b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074551138055:android:bce507f9018264871007a2",
+        "android_client_info": {
+          "package_name": "com.hackmoscow.flipflop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074551138055-k6846on1pmlvp69su4q2fvs7r77ulouc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUwpQ0RGno-znLY9gkCuJgQSGV9LiyAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074551138055-k6846on1pmlvp69su4q2fvs7r77ulouc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
